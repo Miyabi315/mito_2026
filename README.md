@@ -81,6 +81,12 @@ UI:
 
 - `http://127.0.0.1:3000`
 
+## 画面イメージ
+
+`docs/images/care-graph-ui.png` を配置すると、READMEに画面を表示できます。
+
+![Care Graph UI](docs/images/care-graph-ui.png)
+
 ## UIでの確認方法
 
 1. 左の `Record Input` に医療記録を入力
